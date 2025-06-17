@@ -21,4 +21,5 @@ Accuracy-based evaluation
 Train/test split and result reporting
 
 🔹 3. Perform K-Fold Cross Validation Using Python
+
 Applies K-Fold Cross Validation to evaluate a classification model that predicts the region of wholesale customers based on their annual spending across various product categories. Utilizes KFold from scikit-learn to perform multiple training/testing cycles for robust model validation.
